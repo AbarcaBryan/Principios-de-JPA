@@ -28,9 +28,16 @@ API de productos en Github
 # Ejecución
 get /productos
 
+![Captura de pantalla (2395)](https://github.com/user-attachments/assets/e00e436d-17d8-4164-aaaf-eb24dc43c7f7)
+
 get /productos/id
+
+![Captura de pantalla (2396)](https://github.com/user-attachments/assets/6d2f40dd-c24a-4579-8b69-137e4491a013)
 
 get /productos/nombre/{nombre}
 
+![Captura de pantalla (2397)](https://github.com/user-attachments/assets/03e24854-f333-47f1-949c-1d2836810d8d)
 
 get /productos/searchByPrecio?preciomin={preciomin}&preciomax={preciomax}
+
+![Captura de pantalla (2398)](https://github.com/user-attachments/assets/d4ddc3e9-b568-4517-b211-ae32ee3f69ca)
